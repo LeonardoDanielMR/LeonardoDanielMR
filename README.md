@@ -1,4 +1,6 @@
-[![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif)]
+<div align="center">
+  <img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Leonardo Malpartida</h1>
 <h3 align="center">A passionate data scientist from Perú</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
