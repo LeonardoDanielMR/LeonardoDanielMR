@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif" alt="MasterHead">
+  <img src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif" alt="MasterHead" width="400" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Leonardo Malpartida</h1>
 <h3 align="center">A passionate data scientist from Perú</h3>
