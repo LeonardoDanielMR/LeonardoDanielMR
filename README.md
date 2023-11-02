@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Leonardo Malpartida</h1>
 Hello I'm 20 years old and I am from Perú, currently I'm studying Statistics at Agraria La Molina University. I am very passionate about all the topics related with machine learning, deep learning, data analysis and big data.
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardodanielmr&label=Profile%20views&color=0e75b6&style=flat" alt="leonardodanielmr" /> </p>
 
 - 🔭 I’m currently working on **A Inventory Management System.**
 
-- 🌱 I’m currently learning **Deep Learning, Django, Portuguese.**
+- 🌱 I’m currently learning **Deep Learning, Django and Portuguese.**
 
 - 💬 Ask me about **Machine Learning and Statistics.**
 
