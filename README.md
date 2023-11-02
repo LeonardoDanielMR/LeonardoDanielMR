@@ -1,11 +1,11 @@
-[![MasterHead](https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif)]
+[![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif)]
 <h1 align="center">Hi 👋, I'm Leonardo Malpartida</h1>
 <h3 align="center">A passionate data scientist from Perú</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardodanielmr&label=Profile%20views&color=0e75b6&style=flat" alt="leonardodanielmr" /> </p>
 
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently working on **A Inventory Management System**
 
 - 🌱 I’m currently learning **Deep Learning, Django**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **leonardodmalpartida@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dn-99UfEudMBZ8bAIliexqwceUhwimtV/view?usp=sharing](https://drive.google.com/file/d/1dn-99UfEudMBZ8bAIliexqwceUhwimtV/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dn-99UfEudMBZ8bAIliexqwceUhwimtV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
