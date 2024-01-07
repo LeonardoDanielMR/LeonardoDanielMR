@@ -14,7 +14,7 @@ Hello I'm 21 years old and I am from Perú, currently I'm studying Statistics at
 
 - 📫 How to reach me **leonardodmalpartida@gmail.com.**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dn-99UfEudMBZ8bAIliexqwceUhwimtV/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1f-JK6_vz2LmI058aISazrTwOC8M7SDkA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
